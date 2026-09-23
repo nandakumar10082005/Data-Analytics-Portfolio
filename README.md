@@ -1,5 +1,7 @@
 # 📊 Data Analytics Portfolio
 
+Hi, I'm Nandakumar 👋
+
 Welcome to my Data Analytics portfolio.
 
 This repository contains practical projects created using **Power BI, SQL, MySQL, DAX, and data visualization techniques**. The projects focus on transforming raw data into interactive dashboards and business-focused analysis.
