@@ -45,7 +45,7 @@ An interactive Power BI dashboard created to analyze Netflix's content library a
 
 **Country & Rating Analysis**
 
-![Netflix Country and Rating Analysis](Netflix_Country_and_Rating_Analysis.png)
+![Netflix Country and Rating Analysis](Netflix_Country_and_Rating_Analysis..png)
 
 **Power BI File:** `Netflix - PowerBI - Dashboard.pbix`
 
